@@ -5,6 +5,7 @@ greeting = "hello world"
 
 # they can also ne numbers
 fav_num = 7
+print(fav_num*2)
 
-# this variable has a problem
-my name = "Jeremiah"
+num_string = "5"
+print(num_string * 5)
